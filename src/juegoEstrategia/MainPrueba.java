@@ -1,6 +1,6 @@
 package juegoEstrategia;
 
-
+/*
 public class MainPrueba {
 	public MainPrueba() {
 	}
@@ -27,3 +27,4 @@ public class MainPrueba {
 		t.mostrarTablero();
 	}
 }
+*/
